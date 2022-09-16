@@ -28,25 +28,25 @@ const programs = [
 
 const speakers = [
   {
-    image: '/images/speaker1.png',
+    image: './images/speaker1.png',
     name: 'Yochai Benkler',
     job: 'Institute for Professional Excellence in Coaching',
     bio: 'A web platform for practical advice and inspiring stories to encourage young women into tech',
   },
   {
-    image: '/images/speaker2.png',
+    image: './images/speaker2.png',
     name: 'Kilnan Chon',
     job: 'Institute for Professional Excellence in Coaching',
     bio: 'A web platform for practical advice and inspiring stories to encourage young women into tech',
   },
   {
-    image: '/images/speaker3.png',
+    image: './images/speaker3.png',
     name: 'Soh Noh',
     job: 'Institute for Professional Excellence in Coaching',
     bio: 'A web platform for practical advice and inspiring stories to encourage young women into tech',
   },
   {
-    image: '/images/speaker4.png',
+    image: './images/speaker4.png',
     name: 'Julia Leda',
     job: 'Institute for Professional Excellence in Coaching',
     bio: 'A web platform for practical advice and inspiring stories to encourage young women into tech',
@@ -58,7 +58,7 @@ const speakers = [
     bio: 'A web platform for practical advice and inspiring stories to encourage young women into tech',
   },
   {
-    image: '/images/speaker6.png',
+    image: './images/speaker6.png',
     name: 'Ryan Merkley',
     job: 'Institute for Professional Excellence in Coaching',
     bio: 'A web platform for practical advice and inspiring stories to encourage young women into tech',
