@@ -155,7 +155,7 @@ main {
 }
 
 .programs {
-  background: var(--primary-color) url(/images/bg-repeat.png);
+  background: var(--primary-color) url(../images/bg-repeat.png);
   display: flex;
   flex-direction: column;
   justify-content: center;

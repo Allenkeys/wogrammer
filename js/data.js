@@ -1,26 +1,26 @@
 const programs = [
   {
-    icon: '/images/icon1.png',
+    icon: './images/icon1.png',
     title: 'Lecture',
     description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit.',
   },
   {
-    icon: '/images/icon2.png',
+    icon: './images/icon2.png',
     title: 'capstone',
     description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit.',
   },
   {
-    icon: '/images/icon3.png',
+    icon: './images/icon3.png',
     title: 'forum',
     description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit.',
   },
   {
-    icon: '/images/icon4.png',
+    icon: './images/icon4.png',
     title: 'workshop',
     description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit.',
   },
   {
-    icon: '/images/icon5.png',
+    icon: './images/icon5.png',
     title: 'projects',
     description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit.',
   },
