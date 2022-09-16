@@ -13,7 +13,9 @@
 
 ## Live Demo
 
-[Live Demo Link](https://allenkeys.github.io/wogrammer#readme/)
+[Live Demo Link](https://allenkeys.github.io/wogrammer)
+
+[Live walkthrough video link](https://www.loom.com/share/234c719b23bb40858b8ace1fcda304c5)
 
 
 ## Getting Started
