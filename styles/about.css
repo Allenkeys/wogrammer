@@ -111,13 +111,13 @@ main {
   width: 100%;
 }
 
+.show.dark {
+  display: none;
+}
+
 @media screen and (min-width: 769px) {
   .body-logo {
     width: 70%;
-  }
-
-  .home-link {
-    visibility: collapse;
   }
 
   .body-logo img {
@@ -134,5 +134,22 @@ main {
 
   .body-flex-container {
     flex-direction: row;
+  }
+
+  .sponsors-wrapper {
+    display: none;
+  }
+
+  footer {
+    background-color: var(--primary-color);
+    color: white;
+  }
+
+  .show.light {
+    display: none;
+  }
+
+  .show.dark {
+    display: block;
   }
 }
